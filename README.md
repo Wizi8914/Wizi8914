@@ -1,8 +1,4 @@
-### Hi I'm Wizi, I'm a young french developer  👋
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
+## Hi I'm Wizi, I'm a young french developer  👋
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning HTML / CSS 🤣
 - 👯 I’m looking to collaborate with other content creators
