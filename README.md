@@ -1,6 +1,6 @@
 ## Hi I'm Wizi, I'm a young french developer  👋
 
-- 🌱 I’m currently learning HTML 🤣
+- 🌱 I’m currently learning HTML/CSS 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Upgrade my skills
 - ⚡ Fun fact: I love play vidéo game
