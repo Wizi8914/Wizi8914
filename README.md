@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Wizi.vercel.app/api/spotify-playing" alt="Wizi Spotify Playing" width="350" />](https://open.spotify.com/user/loick1418?si=6a2e449e6b6a4baf)
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="Wizi Spotify Playing" width="350" />](https://open.spotify.com/user/loick1418?si=6a2e449e6b6a4baf)
 
 ### Connect with me:
 
