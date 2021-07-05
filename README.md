@@ -49,20 +49,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
-- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
-- [Catchy Blog Titles #shorts](https://www.youtube.com/watch?v=gLwPcnaqSMc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wizi8914&show_icons=true&hide_border=true" />
 
 
