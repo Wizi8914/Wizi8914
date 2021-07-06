@@ -1,9 +1,8 @@
 ## Hi I'm Wizi, I'm a young french developer  👋
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning HTML / CSS 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: become better at programming
+- ⚡ Fun fact: I love to play vidéo game and watch anime
 
 ### Spotify Playing 🎧
 
