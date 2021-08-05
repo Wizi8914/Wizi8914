@@ -4,10 +4,6 @@
 - 🥅 2021 Goals: become better at programming
 - ⚡ Fun fact: I love to play vidéo game and watch anime
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Wizi Spotify Playing" width="350" />](https://open.spotify.com/user/loick1418?si=b95a92a30f01409e)
-
 ### My social networks :
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
