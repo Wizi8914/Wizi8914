@@ -6,9 +6,9 @@
 
 ### My social networks :
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="Wizi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Wizi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Wizi | Discord" width="22px" src="https://i.ibb.co/ZzYBQz1/discord-logo-icon-181298.png" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -37,6 +37,7 @@
 
 [twitter]: https://twitter.com/Wizi20540539
 [youtube]: https://www.youtube.com/channel/UCEzAYEvYn78L-w4xEKitPHA
+[discord]: https://discord.gg/5Mww29D9kB
 [visual]: https://code.visualstudio.com
 [js]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 [terminal]: https://developer.mozilla.org/fr/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
