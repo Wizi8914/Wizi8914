@@ -19,8 +19,10 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>][python]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
+[<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">][npm]
 [<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg"/>][ps]
 [<img align="left" alt="Premiere pro" width="26px" src="https://freepikpsd.com/media/2019/10/logo-pr-png-1-Transparent-Images.png"/>][pr]
 <br />
@@ -36,6 +38,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&layout=compact&theme=material-palenight" />
 </a>
 
+[npm]: https://www.npmjs.com
+[python]: https://www.python.org
 [pr]: https://www.adobe.com/fr/products/premiere.html
 [ps]: https://www.adobe.com/fr/products/photoshop.html
 [twitter]: https://twitter.com/Wizi20540539
