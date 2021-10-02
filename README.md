@@ -24,7 +24,7 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
 [<img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">][npm]
 [<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg"/>][ps]
-[<img align="left" alt="Premiere pro" width="30px" src="https://freepikpsd.com/media/2019/10/logo-pr-png-1-Transparent-Images.png"/>][pr]
+[<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr]
 <br />
 <br />
 
