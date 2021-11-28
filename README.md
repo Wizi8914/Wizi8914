@@ -11,7 +11,7 @@
 [<img align="left" alt="Wizi | Discord" width="22px" src="https://i.ibb.co/4TVwnMV/discord-2-512.png" />][discord]
 <br />
 
-<img align="center" src="https://discord.c99.nl/widget/theme-2/505762041789808641.png" />
+<img align="center" src="https://discord.c99.nl/widget/theme-3/505762041789808641.png" />
 
 ### Languages and Tools:
 
