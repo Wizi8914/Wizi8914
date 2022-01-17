@@ -1,5 +1,5 @@
 ## Hi I'm Wizi, I'm a young french developer  👋
-- 🌱 I’m currently learning Java / C++
+- 🌱 I’m currently learning Java / C++ / C#
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: become better at programming
 - ⚡ Fun fact: I love to play vidéo game and watch anime
@@ -26,8 +26,8 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
 [<img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">][npm]
 <!-- [<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg"/>][ps]
-[<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr]
-[<img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>][cpp] -->
+[<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr] -->
+[<img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
 [<img align="left" alt="sfml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"/>][sfml]
 <!-- [<img align="left" alt="Unreal Engine" width="30px" src="https://i.ibb.co/p3rJssc/pngwing-com.png"/>][ue] -->
 <br />
