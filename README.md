@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java / C++ / C#
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: become better at programming
-- ⚡ Fun fact: I love to play vidéo game and watch anime
+- ⚡ Fun fact: I love to play video game and watch anime
 
 ### My social networks:
 
