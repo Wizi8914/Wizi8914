@@ -52,7 +52,7 @@
 [ps]: https://www.adobe.com/fr/products/photoshop.html
 [twitter]: https://twitter.com/Wizi20540539
 [youtube]: https://www.youtube.com/channel/UCEzAYEvYn78L-w4xEKitPHA
-[discord]: https://discord.gg/5Mww29D9kB
+[discord]: https://discordhub.com/profile/505762041789808641
 [visual]: https://code.visualstudio.com
 [js]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 [terminal]: https://developer.mozilla.org/fr/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
