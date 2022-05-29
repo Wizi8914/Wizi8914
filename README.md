@@ -41,7 +41,10 @@
 <a href="https://github.com/Wizi8914/Wizi8914">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&layout=compact&theme=material-palenight" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
 </a>
+
 
 [ue]: www.unrealengine.com/
 [sfml]: https://www.sfml-dev.org/
