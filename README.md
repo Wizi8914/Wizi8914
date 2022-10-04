@@ -33,12 +33,15 @@
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>][python]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
+
+[<img align="left" alt="sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />][sass]
+
 [<img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">][npm]
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][java]
-<!-- [<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr] -->
 [<img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
 [<img align="left" alt="sfml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"/>][sfml]
 <!-- [<img align="left" alt="Unreal Engine" width="30px" src="https://i.ibb.co/p3rJssc/pngwing-com.png"/>][ue] -->
+<!-- [<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr] -->
 <br />
 <br />
 
@@ -54,6 +57,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
 </a>
 
+[sass]: https://sass-lang.com
 [java]: https://www.java.com
 [ue]: www.unrealengine.com/
 [sfml]: https://www.sfml-dev.org/
