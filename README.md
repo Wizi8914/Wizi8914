@@ -1,4 +1,4 @@
-## Hi I'm Wizi, I'm a young french developer  👋
+## Hi I'm Wizi, I'm a french "developer"  👋
 - 🌱 I’m currently learning Java / C++ / C#
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play video game and watch anime
