@@ -11,7 +11,7 @@
 - Website/app for learn Kana
 - Chrome tabsaver addon
 - Portfolio 
-- Tower of fantasy dicord bot
+- Tower of fantasy dicord bot (In dev)
 
 ### My social networks:
 
