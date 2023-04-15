@@ -8,8 +8,7 @@
 - FPS Game
 - Vr Game
 - Rhythm games
-- Website/app for learn Kana
-- Chrome tabsaver addon
+- Website/app for learning Kana
 - Portfolio 
 - Tower of fantasy discord bot (In dev)
 
