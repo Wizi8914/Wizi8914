@@ -19,7 +19,8 @@
 [<img align="left" alt="Wizi | Discord" width="22px" src="https://i.ibb.co/4TVwnMV/discord-2-512.png" />][discord]
 <br />
 
-<img align="center" src="https://discord.c99.nl/widget/theme-3/505762041789808641.png" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/505762041789808641)](https://discord.com/users/505762041789808641)
+<!-- <img align="center" src="https://discord.c99.nl/widget/theme-3/505762041789808641.png" /> -->
 
 ### Languages and Tools:
 
