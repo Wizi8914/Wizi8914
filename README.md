@@ -6,6 +6,8 @@
 ## 💡 My ideas for future projects:
 
 - FPS Game
+- Programming language
+- Operating system ?
 - Vr Game
 - Rhythm games
 - Website/app for learning Kana
