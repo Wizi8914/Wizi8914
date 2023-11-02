@@ -17,7 +17,6 @@
 ### My social networks:
 
 [<img align="left" alt="Wizi | YouTube" width="22px" src="https://i.ibb.co/nsWxH0W/youtube-512.png" />][youtube]
-[<img align="left" alt="Wizi | Twitter" width="22px" src="https://i.ibb.co/8sdY04w/twitter-512.png" />][twitter]
 [<img align="left" alt="Wizi | Discord" width="22px" src="https://i.ibb.co/4TVwnMV/discord-2-512.png" />][discord]
 <br />
 
