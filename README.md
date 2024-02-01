@@ -1,6 +1,6 @@
 ## Hi I'm Wizi, I'm a french "developer"  👋
 - 🌱 I’m currently learning Java / C++ / C#
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play video game and watch anime
 
 ## 💡 My ideas for future projects:
