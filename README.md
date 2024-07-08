@@ -10,7 +10,6 @@
 - Operating system ?
 - Vr Game
 - Rhythm games
-- Website/app for learning Kana
 - Portfolio 
 - Tower of fantasy discord bot (In dev)
 
