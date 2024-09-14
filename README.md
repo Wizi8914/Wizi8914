@@ -10,9 +10,11 @@
 - Operating system ?
 - Vr Game
 - Rhythm games
-- Portfolio 
-- Tower of fantasy discord bot (In dev)
+- A new Portfolio 
+- My own Game Engine
+- A browser extension to remove short videos from Youtube (in dev)
 
+  
 ### My social networks:
 
 [<img align="left" alt="Wizi | YouTube" width="22px" src="https://i.ibb.co/nsWxH0W/youtube-512.png" />][youtube]
