@@ -41,8 +41,8 @@
 [<img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">][npm]
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][java]
 [<img align="left" alt="c++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
-[<img align="left" alt="sfml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"/>][sfml]
-<!-- [<img align="left" alt="Unreal Engine" width="30px" src="https://i.ibb.co/p3rJssc/pngwing-com.png"/>][ue] -->
+<!-- [<img align="left" alt="sfml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"/>][sfml] -->
+[<img align="left" alt="Unreal Engine" width="30px" src="https://i.ibb.co/p3rJssc/pngwing-com.png"/>][ue]
 <!-- [<img align="left" alt="Premiere pro" width="30px" src="https://images.tuto.net/blog/premiere-cs6-logo.png"/>][pr] -->
 <br />
 <br />
