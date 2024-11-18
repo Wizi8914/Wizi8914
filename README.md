@@ -53,7 +53,7 @@
 </a>
 <a href="https://github.com/Wizi8914/Wizi8914">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&hide=shaderlab&layout=compact&theme=material-palenight" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
   [![wakatime](https://wakatime.com/badge/user/9a3fa73a-3ab5-413b-bda8-74493fe19488.svg)](https://wakatime.com/@9a3fa73a-3ab5-413b-bda8-74493fe19488)
