@@ -48,17 +48,17 @@
 <br />
 
 ## GitHub Stats:
-<a href="https://github.com/Wizi8914/Wizi8914">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Wizi8914&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/Wizi8914/Wizi8914">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&hide=shaderlab&layout=compact&theme=material-palenight" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
-  [![wakatime](https://wakatime.com/badge/user/9a3fa73a-3ab5-413b-bda8-74493fe19488.svg)](https://wakatime.com/@9a3fa73a-3ab5-413b-bda8-74493fe19488)
 
+
+<a href="https://github.com/Wizi8914/Wizi8914">
+  <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Wizi8914&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </a>
+<a href="https://github.com/Wizi8914/Wizi8914">
+  <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=9&hide=shaderlab&layout=compact&theme=material-palenight&card_width=320" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
+[![wakatime](https://wakatime.com/badge/user/9a3fa73a-3ab5-413b-bda8-74493fe19488.svg)](https://wakatime.com/@9a3fa73a-3ab5-413b-bda8-74493fe19488)
 
 [sass]: https://sass-lang.com
 [java]: https://www.java.com
