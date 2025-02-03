@@ -54,7 +54,7 @@
   <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Wizi8914&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/Wizi8914/Wizi8914">
-  <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=9&hide=shaderlab&layout=compact&theme=material-palenight&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&hide=shaderlab,HLSL&layout=compact&theme=material-palenight&card_width=320" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wizi8914&color=green)
