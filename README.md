@@ -4,12 +4,10 @@
   Currently studying game development and exploring <b>Unreal Engine (C++ / Blueprints)</b> and <b>Unity (C#)</b>
 </p>
 
----
 
 ## 🧠 About Me
 - 📚 Currently learning **C++** and graphics APIs (**OpenGL / DirectX**)  
 
----
 
 ## 💡 Ideas & Future Projects
 
@@ -17,7 +15,6 @@
 - Create my own game engine
 - Online multiplayer game
 
----
 
 ## 🔧 Tech & Tools
 
@@ -50,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" alt="Firebase"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="SQL"/>
 
----
+
 
 ## 📊 Stats & Activity
 
@@ -68,7 +65,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Wizi8914&color=blueviolet" alt="Profile views"/>
 
----
+
 
 ## 📫 Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/505762041789808641)](https://discord.com/users/505762041789808641)
