@@ -59,13 +59,16 @@
   <img height=200 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wizi8914&langs_count=10&hide=shaderlab,HLSL&layout=compact&theme=material-palenight&card_width=320" />
 </a>
 
+
 <br>
+
+<div style="display: flex">
 
 <a href="https://wakatime.com/@9a3fa73a-3ab5-413b-bda8-74493fe19488">
   <img src="https://wakatime.com/badge/user/9a3fa73a-3ab5-413b-bda8-74493fe19488.svg" alt="WakaTime Badge"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Wizi8914&color=blueviolet" alt="Profile views"/>
-
+</div>
 
 
 ## 📫 Contact
