@@ -26,7 +26,8 @@
   <a href="https://cplusplus.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/></a>
   <a href="https://www.perforce.com" target="_blank"><img src="https://www.rodhilton.com/img/perforce.png" width="60" alt="Perforce"/></a>
-  <a href="https://www.diversionvcs.com" target="_blank"><img src="https://cdn.prod.website-files.com/65a692daff091fd7cd094903/65a69603c637fedaff4a685d_webclipArtboard%202%20copy.png" width="60" alt="Diversion Source Control"/></a>
+  <a href="https://www.diversion.dev" target="_blank"><img src="https://cdn.prod.website-files.com/65a692daff091fd7cd094903/65a69603c637fedaff4a685d_webclipArtboard%202%20copy.png" width="60" alt="Diversion Source Control"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></a>
   <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" alt="Visual Studio"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/></a>
 </div>
@@ -42,7 +43,6 @@
   <a href="https://www.npmjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" alt="npm"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></a>
   <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/></a>
   <a href="https://firebase.google.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" alt="Firebase"/></a>
