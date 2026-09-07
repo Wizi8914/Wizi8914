@@ -6,7 +6,7 @@
 
 
 ## 🧠 About Me
-- 📚 Currently learning **C++** and graphics APIs (**OpenGL / DirectX**)  
+- 📚 Currently learning **C++** and graphics APIs (**Vulcan / DirectX**)  
 
 
 ## 💡 Ideas & Future Projects
